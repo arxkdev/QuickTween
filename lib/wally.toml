@@ -1,0 +1,8 @@
+[package]
+name = "arxkdev/quicktween"
+description = "Makes tweening quick and easy by creating and automatically destroying tweens when they are done."
+version = "0.0.3"
+license = "MIT"
+authors = ["Arxk (https://github.com/arxkdev)"]
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
